@@ -1,22 +1,3 @@
-<div align="center">
- 
-# Source Codes - Zhirrr's API
-<p align="center">
-<a href="#"><img title="Zhirrr's API" src="https://img.shields.io/badge/Zhirrr Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Zhirrr"><img title="Author" src="https://img.shields.io/badge/Author-Zhirrr-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Zhirrr/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zhirrr?color=red&style=flat-square"></a>
-<a href="https://github.com/Zhirrr/Zhirrr-Api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zhirrr/Zhirrr-Api?color=blue&style=flat-square"></a>
-<a href="https://github.com/Zhirrr/Zhirrr-Api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Zhirrr/Zhirrr-Api?color=red&style=flat-square"></a>
-<a href="https://github.com/Zhirrr/Zhirrr-Api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Zhirrr/Zhirrr-Api?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-<p align='center'>
-   <a href="https://wa.me/6283898698875"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/zhirr_ajalah"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
-</P>
 
 ## 🛠️ My-Api
 | Menu | API | 
@@ -87,41 +68,3 @@
 | Text Maker Flower | api/textmaker/alam?text=Zhirrr&theme=flower&apikey=MASUKIN_APIKEY |
 
 
-## Cara Ganti ApiKey Gimana?
-Cara Mengganti Nya Cukup Gampang, Kalian Hanya Perlu Untuk Mengganti Syntax Di Bawah Ini
-```js
-if(apikeyInput != 'MASUKKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
-```
-Atau
-
-```js
-if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
-```
-
-### Berikut Adalah Cara Deploy API Ini Ke Dalam Heroku
-<p align="center">
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-47-56-969_com.android.chrome.png"/>
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-48-56-435_com.android.chrome.png"/>
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-49-37-427_com.android.chrome.png"/>
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-51-08-627_com.android.chrome.png"/>
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-51-35-141_com.android.chrome.png"/>
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-52-12-691_com.android.chrome.png"/>
-</p>
-
-# Live API
-* https://zahirr-web.herokuapp.com
-- Gunakan Parameter Yg Sama Yak :)
-- 100 % Open Source
-- Like This Repository Okeee 🎉
-- Note : Jangan Memperjual Belikan API Ini, Jika anda ingin memakai nya dan meRename dengan nama kalian Tidak Masalah, karena ini adalah Project API Open Source
-- Untuk Melihat Update Silakan Ganti Branch Ke "update2"
-
-
-### Link Zhirrr API Packages
-
-https://www.npmjs.com/package/zahir-api
-
-### Special Thanks
-- ZefianAlfian (Makasih Templates Nya, Xixixixi)
-- sProDev (Makasih Kodepos Nya Mank)
-- devnazir (Credits : FilmApik, LK21)
